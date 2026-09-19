@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\Admin\\Documents\\New folder\\examples\\example_win32_directx11\\Release\\Offsets.obj",
+            "outputs": [
+                "C:\\Users\\Admin\\Documents\\New folder\\examples\\example_win32_directx11\\Release\\Offsets.hpp.obj.dt.module.json",
+                "C:\\Users\\Admin\\Documents\\New folder\\examples\\example_win32_directx11\\Release\\Offsets.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
